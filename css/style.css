@@ -101,6 +101,16 @@
 	line-height: 1.36;
 }
 
+
+/* .search */
+
+.search__contain {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center;
+}
+
 /* .intro */
 
 .intro {
