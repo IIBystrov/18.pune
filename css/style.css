@@ -61,3 +61,14 @@
 .body__header {
 	margin: 0 0 270px;
 }
+
+
+/* .intro */
+
+.intro {
+	width: 100%;
+}
+
+.body__intro {
+	margin: 0 0 730px;
+}
