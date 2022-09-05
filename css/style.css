@@ -173,6 +173,20 @@
 }
 
 
+/* .social */
+
+.social {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.social__title {
+	margin-right: 20px;
+	transform: rotate(90deg);
+}
+
 /* .card */
 
 .card {
