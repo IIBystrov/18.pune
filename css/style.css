@@ -38,7 +38,7 @@
 
 .body__inner {
 	max-width: 1461px;
-	
+
 	margin: 0 auto;
 }
 
@@ -92,4 +92,17 @@
 	gap: 30%;
 
 	margin: 0 0 100px;
+}
+
+
+/* .card */
+
+.card {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	gap: 30px;
+
+	margin: 0 0 250px;
 }
