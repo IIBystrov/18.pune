@@ -7,7 +7,7 @@
 
 .body__wrapper {
 	position: relative;
-	z-index: -2;
+	z-index: 0;
 
 	width: 100%;
 
@@ -70,6 +70,8 @@
 }
 
 .body__header {
+	position: relative;
+	/*z-index: 10;*/
 	margin: 0 0 270px;
 }
 
@@ -109,6 +111,17 @@
 	flex-direction: row-reverse;
 	justify-content: center;
 	align-items: center;
+}
+
+.search__input {
+	padding: 0 15px;
+
+	background: inherit;
+
+	font-weight: 400px;
+	font-size: 17px;
+	line-height: 1.41;
+	color: inherit;
 }
 
 /* .intro */
