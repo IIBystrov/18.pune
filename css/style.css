@@ -124,6 +124,18 @@
 	color: inherit;
 }
 
+.search__input::placeholder {
+	opacity: 0.7;
+
+	color: inherit;
+
+	transition: opacity 0.3s ease-in;
+}
+
+.search__input:focus.search__input::placeholder {
+	opacity: 0;
+}
+
 /* .intro */
 
 .intro {
