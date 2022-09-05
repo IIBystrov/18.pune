@@ -31,3 +31,14 @@
 
 	width: 100%;
 }
+
+
+.body__wrap {
+	padding: 64px 85px 0;
+
+	max-width: 1655px;
+}
+
+.wrap {
+	width: 100%;
+}
