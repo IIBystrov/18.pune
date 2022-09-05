@@ -7,7 +7,7 @@
 
 .body__wrapper {
 	position: relative;
-	
+
 	width: 100%;
 
 	margin: 0 auto;
@@ -15,4 +15,16 @@
 
 .wrapper {
 	overflow: hidden;
+}
+
+
+.wrapper__bg {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	z-index: -1;
+
+	transform: translateX(-50%);
+
+	width: 100%;
 }
