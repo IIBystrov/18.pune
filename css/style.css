@@ -20,6 +20,28 @@
 	background: #000000;
 }
 
+.body__wrap {
+	padding: 64px 85px 0;
+
+	max-width: 1655px;
+
+	margin: 0 auto;
+}
+
+.wrap {
+	width: 100%;
+}
+
+.inner {
+	width: 100%;
+}
+
+.body__inner {
+	max-width: 1461px;
+	
+	margin: 0 auto;
+}
+
 
 .wrapper__bg {
 	position: absolute;
@@ -33,17 +55,6 @@
 }
 
 
-.body__wrap {
-	padding: 64px 85px 0;
-
-	max-width: 1655px;
-
-	margin: 0 auto;
-}
-
-.wrap {
-	width: 100%;
-}
 
 
 /* .header */
