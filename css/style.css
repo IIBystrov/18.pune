@@ -72,3 +72,13 @@
 .body__intro {
 	margin: 0 0 730px;
 }
+
+.intro__contain {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+	gap: 30%;
+
+	margin: 0 0 100px;
+}
