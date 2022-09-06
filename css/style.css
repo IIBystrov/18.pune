@@ -274,13 +274,17 @@
 
 .link__icon {
 	position: absolute;
-	top: 20px;
+	top: 0;
     right: -15%;
-    transform: translateY(-17px);
+    /*transform: translateY(-17px);*/
 }
 
 .link:hover {
 	opacity: 1;
+}
+
+.link:hover .link__icon {
+	animation: anim-link 1s ease-in infinite;
 }
 
 /* .card */
@@ -329,4 +333,16 @@
 	margin: 0 0 100px;
 }
 
+/* animation */
 
+@keyframes anim-link {
+	0% {
+		top: 0;
+	}
+	50% {
+		top: 5px;
+	}
+	100% {
+		top: 0;
+	}
+}
