@@ -250,6 +250,23 @@
 	gap: 20px;
 }
 
+
+/* .link */
+
+.link {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center;
+	gap: 9px;
+
+	opacity: 0.7;
+
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 1.36;
+}
+
 /* .card */
 
 .card {
