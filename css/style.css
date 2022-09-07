@@ -190,6 +190,9 @@
 	line-height: 1.04;
 }
 
+
+/* .subtitle */
+
 .subtitle {
 	font: 700;
 	font-size: 64px;
@@ -294,6 +297,12 @@
 }
 
 /* .card */
+
+.card__header {
+	position: relative;
+
+	margin: ;
+}
 
 .card {
 	display: flex;
