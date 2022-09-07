@@ -342,6 +342,10 @@
 	color: #fbd784;
 }
 
+.excerpt:hover .excerpt__img {
+	animation: anim-excerpt 1s linear infinite;
+}
+
 .excerpt__img {
 	position: absolute;
 	top: 6px;
