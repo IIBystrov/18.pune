@@ -334,12 +334,18 @@
 
 .excerpt {
 	position: relative;
-	
+
 	font-weight: 700;
 	font-style: normal;
 	font-size: 18px;
 	line-height: 1.36;
 	color: #fbd784;
+}
+
+.excerpt__img {
+	position: absolute;
+	top: 6px;
+    right: -36px;
 }
 
 /* .action */
