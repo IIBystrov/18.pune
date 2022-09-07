@@ -316,6 +316,19 @@
 	margin: 0 0 250px;
 }
 
+.card__desc {
+	margin: 0 0 27px;
+
+	font-weight: 600;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 2;
+}
+
+.card__desc *:not(:last-child) {
+	margin: 0 0 10px;
+}
+
 
 /* .action */
 
