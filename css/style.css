@@ -104,11 +104,13 @@
 	font-size: 18px;
 	line-height: 1.36;
 
-	transition: opacity 0.3s ease-in;
+	transition: opacity 0.3s ease-in, color 0.3s ease-in;
 }
 
 .nav__link:hover {
 	opacity: 1;
+
+	color: #fbd784;
 }
 
 
