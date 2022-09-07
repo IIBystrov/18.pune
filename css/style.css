@@ -147,7 +147,11 @@
 
 	color: inherit;
 
-	transition: opacity 0.3s ease-in;
+	transition: opacity 0.3s ease-in, color 0.3s ease-in
+}
+
+.search__input:hover.search__input::placeholder {
+	color: #fbd784;
 }
 
 .search__input:focus.search__input::placeholder {
