@@ -191,6 +191,12 @@
 }
 
 .subtitle {
+	font: 700;
+	font-size: 64px;
+	line-height: 1.36;
+}
+
+.subtitle--min {
 	position: absolute;
 	left: 0;
 	top: -32px;
@@ -204,7 +210,7 @@
 	color: #ffc178;
 }
 
-.subtitle:before {
+.subtitle--min:before {
 	display: block;
 	content: "";
 
