@@ -330,6 +330,18 @@
 }
 
 
+/* .excerpt */
+
+.excerpt {
+	position: relative;
+	
+	font-weight: 700;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 1.36;
+	color: #fbd784;
+}
+
 /* .action */
 
 .action {
