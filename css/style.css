@@ -381,6 +381,8 @@
 
 /* animation */
 
+/* anim-link */
+
 @keyframes anim-link {
 	0% {
 		top: 0;
@@ -392,3 +394,19 @@
 		top: 0;
 	}
 }
+
+
+/* anim-excerpt */
+
+@keyframes anim-excerpt {
+	0% {
+		right: -36px;
+	}
+	50%{
+		right: -41px;
+	}
+	100% {
+		right: -36px;
+	}
+}
+
