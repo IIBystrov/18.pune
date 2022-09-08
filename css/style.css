@@ -466,6 +466,13 @@
 
 /* .footer */
 
+.footer {
+	margin: 0 auto 118px;
+	padding-top: 55px;
+	
+	border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
 .footer__contain {
 	display: flex;
 	flex-direction: row;
