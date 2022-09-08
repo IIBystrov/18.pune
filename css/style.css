@@ -200,7 +200,7 @@
 /* .subtitle */
 
 .subtitle {
-	font: 700;
+	font-weight: 700;
 	font-size: 64px;
 	line-height: 1.36;
 }
@@ -332,7 +332,7 @@
 	flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    
+
 	min-height: 985px;
 }
 
