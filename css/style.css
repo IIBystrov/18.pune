@@ -52,6 +52,9 @@
 	transform: translateX(-50%);
 
 	width: 100%;
+	min-height: 2395px;
+
+	object-fit: cover
 }
 
 
@@ -345,6 +348,7 @@
 	position: absolute;
 	top: 0;
 	left: 50%;
+	z-index: -1;
 	transform: translateX(-50%);
 
 	max-width: 100%;
@@ -354,6 +358,11 @@
 	display: block;
 
 	width: 100%;
+}
+
+.card__img--center {
+	min-height: 985px;
+	object-fit: cover;
 }
 
 .card__column {
