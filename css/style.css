@@ -469,7 +469,7 @@
 .footer {
 	margin: 0 auto 118px;
 	padding-top: 55px;
-	
+
 	border-top: 1px solid rgba(255, 255, 255, 0.3);
 }
 
@@ -483,6 +483,12 @@
 	width: 100%;
 
 	margin: 0 0 100px;
+}
+
+.footer__title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.36;
 }
 
 /* animation */
