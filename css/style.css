@@ -371,8 +371,12 @@
 }
 
 .card__column--slider {
+	margin: 0 0 42px;
+
 	width: 100%;
 	max-width: 1163px;
+
+	text-align: center;
 }
 
 .card__desc {
