@@ -361,6 +361,11 @@
 	max-width: 632px;
 }
 
+.card__column--slider {
+	width: 100%;
+	max-width: 1163px;
+}
+
 .card__desc {
 	margin: 0 0 27px;
 
