@@ -491,6 +491,12 @@
 	line-height: 1.36;
 }
 
+.form__input {
+	padding: 19px 15px 31px;
+
+	background: inherit;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
 /* animation */
 
 /* anim-link */
