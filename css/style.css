@@ -550,6 +550,14 @@
 	line-height: 1.3;
 }
 
+.footer__document {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 50px;
+}
+
 .footer__social {
 	flex-direction: row-reverse;
 }
