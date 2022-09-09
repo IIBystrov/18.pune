@@ -527,6 +527,16 @@
 	color: #fbd784;
 }
 
+.footer__subtitle {
+	margin: 0 0 45px;
+	
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 1.3;
+	color: rgba(255, 209, 160, 1);
+}
+
 
 /* animation */
 
