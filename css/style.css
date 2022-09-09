@@ -527,8 +527,12 @@
 
 .form__input:hover.form__input::placeholder {
 	opacity: 1;
-	
+
 	color: #fbd784;
+}
+
+.form__input:focus.form__input::placeholder {
+	opacity: 0;
 }
 
 .footer__subtitle {
