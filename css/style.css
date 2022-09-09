@@ -500,6 +500,13 @@
 	line-height: 1.36;
 }
 
+.footer__form {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: stretch;
+}
+
 .form__input {
 	padding: 19px 15px 31px;
 
