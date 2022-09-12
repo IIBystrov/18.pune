@@ -141,6 +141,9 @@
 .search__input {
 	padding: 0 15px;
 
+	width: 100%;
+	max-width: 88px;
+
 	background: inherit;
 
 	font-weight: 400;
