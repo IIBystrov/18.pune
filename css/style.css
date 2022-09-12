@@ -593,6 +593,15 @@
 }
 
 
+/* media */
+
+@media (max-width: 1480px) {
+
+	.body__inner {
+		padding: 0 15px;
+	}
+}
+
 /* animation */
 
 /* anim-link */
