@@ -58,3 +58,19 @@
 		url("font/open_sans/OpenSans-Bold.ttf") format("ttf"),
 		url("fonts/open_sans/OpenSans-Bold.eot") format("eot");
 }
+
+
+/* Poppins */
+
+/*light*/
+
+@font-face {
+	font-family: "Poppins";
+	font-weight: 300;
+	font-style: normal;
+	src: local("Poppins"),
+		url("fonts/poppins/Poppins-Light.woff2") format("woff2"),
+		url("fonts/poppins/Poppins-Light.woff") format("woff"),
+		url("fonts/poppins/Poppins-Light.ttf") format("ttf"),
+		url("fonts/poppins/Poppins-Light.eot") format("eot");
+}
