@@ -32,6 +32,20 @@
 		url("fonts/open_sans/OpenSans-Regular.eot") format("eot");
 }
 
+
+/* semibold */
+
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 600;
+	font-style: normal;
+	src: local("Open Sans"),
+		url("fonts/open_sans/OpenSans-SemiBold.woff2") format("woff2"),
+		url("fonts/open_sans/OpenSans-SemiBold.woff") format("woff"),
+		url("fonts/open_sans/OpenSans-SemiBold.ttf") format("ttf"),
+		url("fonts/open_sans/OpenSans-SemiBold.eot") format("eot");
+}
+
 /* bold */
 
 @font-face {
