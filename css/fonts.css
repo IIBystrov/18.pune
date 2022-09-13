@@ -74,3 +74,16 @@
 		url("fonts/poppins/Poppins-Light.ttf") format("ttf"),
 		url("fonts/poppins/Poppins-Light.eot") format("eot");
 }
+
+/* medium */
+
+@font-face {
+	font-family: "Poppins";
+	font-weight: 500;
+	font-style: normal;
+	src: local("Poppins"),
+		url("fonts/poppins/Poppins-Medium.woff2") format("woff2"),
+		url("fonts/poppins/Poppins-Medium.woff") format("woff"),
+		url("fonts/poppins/Poppins-Medium.ttf") format("ttf"),
+		url("fonts/poppins/Poppins-Medium.eot") format("eot");
+}
