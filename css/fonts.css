@@ -31,3 +31,16 @@
 		url("fonts/open_sans/OpenSans-Regular.ttf") format("ttf"),
 		url("fonts/open_sans/OpenSans-Regular.eot") format("eot");
 }
+
+/* bold */
+
+@font-face {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-style: normal;
+	src: local("Open Sans"),
+		url("fonts/open_sans/OpenSans-Bold.woff2") format("woff2"),
+		url("fonts/open_sans/OpenSans-Regular.woff") format("woff"),
+		url("font/open_sans/OpenSans-Bold.ttf") format("ttf"),
+		url("fonts/open_sans/OpenSans-Bold.eot") format("eot");
+}
