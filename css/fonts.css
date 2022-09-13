@@ -10,10 +10,10 @@
 	font-weight: 400;
 	font-style: normal;
 	src: local("DM Sans"),
-		url("fonts/dm_sans/DMSans-Regular.woff2") format("woff2"),
-		url("fonts/dm_sans/DMSans-Regular.woff") format("woff"),
-		url("fonts/dm_sans/DMSans-Regular.ttf") format("ttf"),
-		url("fonts/dm_sans/DMSans-Regular.eot") format("eot");
+		url("../fonts/dm_sans/DMSans-Regular.woff2") format("woff2"),
+		url("../fonts/dm_sans/DMSans-Regular.woff") format("woff"),
+		url("../fonts/dm_sans/DMSans-Regular.ttf") format("ttf"),
+		url("../fonts/dm_sans/DMSans-Regular.eot") format("eot");
 }
 
 
@@ -26,10 +26,10 @@
 	font-weight: 400;
 	font-style: normal;
 	src: local("Open Sans"),
-		url("fonts/open_sans/OpenSans-Regular.woff2") format("woff2"),
-		url("fonts/open_sans/OpenSans-Regular.woff") format("woff"),
-		url("fonts/open_sans/OpenSans-Regular.ttf") format("ttf"),
-		url("fonts/open_sans/OpenSans-Regular.eot") format("eot");
+		url("../fonts/open_sans/OpenSans-Regular.woff2") format("woff2"),
+		url("../fonts/open_sans/OpenSans-Regular.woff") format("woff"),
+		url("../fonts/open_sans/OpenSans-Regular.ttf") format("ttf"),
+		url("../fonts/open_sans/OpenSans-Regular.eot") format("eot");
 }
 
 
@@ -40,10 +40,10 @@
 	font-weight: 600;
 	font-style: normal;
 	src: local("Open Sans"),
-		url("fonts/open_sans/OpenSans-SemiBold.woff2") format("woff2"),
-		url("fonts/open_sans/OpenSans-SemiBold.woff") format("woff"),
-		url("fonts/open_sans/OpenSans-SemiBold.ttf") format("ttf"),
-		url("fonts/open_sans/OpenSans-SemiBold.eot") format("eot");
+		url("../fonts/open_sans/OpenSans-SemiBold.woff2") format("woff2"),
+		url("../fonts/open_sans/OpenSans-SemiBold.woff") format("woff"),
+		url("../fonts/open_sans/OpenSans-SemiBold.ttf") format("ttf"),
+		url("../fonts/open_sans/OpenSans-SemiBold.eot") format("eot");
 }
 
 /* bold */
@@ -53,10 +53,10 @@
 	font-weight: 700;
 	font-style: normal;
 	src: local("Open Sans"),
-		url("fonts/open_sans/OpenSans-Bold.woff2") format("woff2"),
-		url("fonts/open_sans/OpenSans-Regular.woff") format("woff"),
-		url("font/open_sans/OpenSans-Bold.ttf") format("ttf"),
-		url("fonts/open_sans/OpenSans-Bold.eot") format("eot");
+		url("../fonts/open_sans/OpenSans-Bold.woff2") format("woff2"),
+		url("../fonts/open_sans/OpenSans-Regular.woff") format("woff"),
+		url("../font/open_sans/OpenSans-Bold.ttf") format("ttf"),
+		url("../fonts/open_sans/OpenSans-Bold.eot") format("eot");
 }
 
 
@@ -69,10 +69,10 @@
 	font-weight: 300;
 	font-style: normal;
 	src: local("Poppins"),
-		url("fonts/poppins/Poppins-Light.woff2") format("woff2"),
-		url("fonts/poppins/Poppins-Light.woff") format("woff"),
-		url("fonts/poppins/Poppins-Light.ttf") format("ttf"),
-		url("fonts/poppins/Poppins-Light.eot") format("eot");
+		url("../fonts/poppins/Poppins-Light.woff2") format("woff2"),
+		url("../fonts/poppins/Poppins-Light.woff") format("woff"),
+		url("../fonts/poppins/Poppins-Light.ttf") format("ttf"),
+		url("../fonts/poppins/Poppins-Light.eot") format("eot");
 }
 
 /* medium */
@@ -82,8 +82,8 @@
 	font-weight: 500;
 	font-style: normal;
 	src: local("Poppins"),
-		url("fonts/poppins/Poppins-Medium.woff2") format("woff2"),
-		url("fonts/poppins/Poppins-Medium.woff") format("woff"),
-		url("fonts/poppins/Poppins-Medium.ttf") format("ttf"),
-		url("fonts/poppins/Poppins-Medium.eot") format("eot");
+		url("../fonts/poppins/Poppins-Medium.woff2") format("woff2"),
+		url("../fonts/poppins/Poppins-Medium.woff") format("woff"),
+		url("../fonts/poppins/Poppins-Medium.ttf") format("ttf"),
+		url("../fonts/poppins/Poppins-Medium.eot") format("eot");
 }
