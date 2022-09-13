@@ -1,0 +1,17 @@
+/* fonts */
+
+
+/* DM Sans */
+
+/* regular */
+
+@font-face {
+	font-family: "DM Sans";
+	font-weight: 400;
+	font-style: normal;
+	src: local("DM Sans"),
+		url("fonts/dm_sans/DMSans-Regular.woff2") format("woff2"),
+		url("fonts/dm_sans/DMSans-Regular.woff") format("woff"),
+		url("fonts/dm_sans/DMSans-Regular.ttf") format("ttf"),
+		url("fonts/dm_sans/DMSans-Regular.eot") format("eot");
+}
