@@ -577,7 +577,8 @@
 	transition: color 0.3s ease-in, opacity 0.3s ease-in;
 }
 
-.footer__link:hover {
+.footer__link:hover,
+.footer__link:focus {
 	opacity: 1;
 
 	color: #fbd784;
