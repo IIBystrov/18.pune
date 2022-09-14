@@ -414,9 +414,17 @@
 	font-size: 18px;
 	line-height: 1.36;
 	color: #fbd784;
+
+	transition: color 0.3s ease-in
 }
 
-.excerpt:hover .excerpt__img {
+.excerpt:hover,
+.excerpt:focus {
+	color: #fbd764;
+}
+
+.excerpt:hover .excerpt__img,
+.excerpt:focus .excerpt__img {
 	animation: anim-excerpt 1s linear infinite;
 }
 
