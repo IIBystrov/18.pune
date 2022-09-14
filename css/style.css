@@ -521,8 +521,6 @@
 
 
 
-
-
 /* .footer */
 
 .footer {
@@ -570,6 +568,11 @@
 	color: #ffffff;
 
 	transition: box-shadow 0.3s ease-in;
+}
+
+.form__icon {
+	width: 28px;
+	height: 28px;
 }
 
 .form__input::placeholder {
