@@ -486,6 +486,16 @@
 	border-radius: 8px;
 
 	color: #000000;
+
+	transition: outline 0.3s ease-in, box-shadow 0.3s ease-in, color 0.3s ease-in;
+}
+
+.btn--standart:hover,
+.btn--standart:focus{
+	outline: 1px solid #ffffff;
+	box-shadow: 5px 5px 39px #ffa343;
+
+	color: #ffffff;
 }
 
 .btn--text {
