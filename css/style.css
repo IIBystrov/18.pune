@@ -519,6 +519,11 @@
 	box-shadow: 5px 5px 39px #ffa343;
 }
 
+.btn--form:hover .form__icon,
+.btn--form:focus .form__icon {
+	fill: #ffffff;
+}
+
 
 
 /* .footer */
@@ -573,6 +578,10 @@
 .form__icon {
 	width: 28px;
 	height: 28px;
+
+	fill: #000000;
+
+	transition: fill 0.3s ease-in;
 }
 
 .form__input::placeholder {
