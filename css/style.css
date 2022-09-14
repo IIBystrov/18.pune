@@ -591,6 +591,19 @@
 	gap: 50px;
 }
 
+.document__link {
+	opacity: 0.7;
+
+	transition: color 0.3s ease-in, opacity 0.3s ease-in;
+}
+
+.document__link:hover,
+.document__link:focus {
+	opacity: 1;
+
+	color: #fbd784;
+}
+
 .footer__social {
 	flex-direction: row-reverse;
 }
