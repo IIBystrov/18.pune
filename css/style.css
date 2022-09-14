@@ -285,7 +285,8 @@
 	transition: transform 0.3s ease-in, fill 0.3s ease-in;
 }
 
-.social__link:hover .social__icon {
+.social__link:hover .social__icon,
+.social__link:focus .social__icon {
 	transform: scale(1.3);
 
 	fill: #fbd784;
