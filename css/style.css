@@ -114,7 +114,8 @@
 	transition: opacity 0.3s ease-in, color 0.3s ease-in;
 }
 
-.nav__link:hover {
+.nav__link:hover,
+.nav__link:focus {
 	opacity: 1;
 
 	color: #fbd784;
