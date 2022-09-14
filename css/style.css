@@ -295,21 +295,24 @@
 	font-size: 18px;
 	line-height: 1.36;
 
-	transition: opacity 0.3s ease-in;
+	transition: opacity 0.3s ease-in, color 0.3s ease-in;
 }
 
 .link__icon {
 	position: absolute;
 	top: 0;
     right: -15%;
-    /*transform: translateY(-17px);*/
 }
 
-.link:hover {
+.link:hover,
+.link:focus {
 	opacity: 1;
+
+	color: #fbd784;
 }
 
-.link:hover .link__icon {
+.link:hover .link__icon,
+.link:focus .link__icon {
 	animation: anim-link 1s ease-in infinite;
 }
 
